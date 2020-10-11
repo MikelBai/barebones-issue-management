@@ -1,5 +1,4 @@
 ![GitHub Logo](/issuetracker1.png)
-Format: ![Alt Text](url)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
